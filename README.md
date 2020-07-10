@@ -1,3 +1,4 @@
+![Go](https://github.com/StrongPa55w0rd/eks-workshop-sample-api-service-go/workflows/Go/badge.svg)
 # eks-workshop-sample-api-service-go
 
 A sample Kubernetes service used in the [EKS Workshop](https://eksworkshop.com/) CI/CD Pipeline module.
